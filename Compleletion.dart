@@ -43,7 +43,7 @@ class TrainingCompletion extends StatelessWidget {
               height: 20,
             ),
             Text(
-              "You have successfully completed Hybrid Mobile App Development Course.",
+              "Hi , Nishant . You have successfully completed Hybrid Mobile App Development Course.",
               style: TextStyle(fontSize: 25),
             ),
             SizedBox(
